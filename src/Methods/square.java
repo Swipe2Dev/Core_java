@@ -9,7 +9,6 @@ public class square {
 	public static void main(String[] args) {
 		
 		int num = 7;
-		squ(num);
 		System.out.println(squ(num));
 	}
 }
